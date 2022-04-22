@@ -341,6 +341,11 @@
         <!-- Page level custom scripts -->
         <script src="../js/demo/datatables-demo.js"></script>
 
+                <!-- Scripts para mascaras-->
+
+        <script src="../js/mascara.js"></script>
+        <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery.mask/1.14.11/jquery.mask.min.js"></script>
+
     </body>
 
 </html>
